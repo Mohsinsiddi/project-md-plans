@@ -90,7 +90,7 @@ The original Proposal B is a relatively straightforward backend: receive USDC, c
 
 | | Proposal B | Proposal C | Proposal D |
 |-|-----------|-----------|-----------|
-| Estimated dev time | 3-4 weeks | **5-6 weeks** | **5-7 weeks** |
+| Estimated dev time | 3-4 weeks | **4-5 weeks** | **4-5 weeks + Privy lead time** |
 | Blocked by Inflow | Yes | Yes | Yes |
 | Blocked by Privy team | No | No | **Yes** |
 | Security review needed | Minimal | **Significant** | Minimal |
