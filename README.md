@@ -34,6 +34,9 @@ project-md-plans/
 │   ├── README.md                          ← Project overview + doc links
 │   ├── proposal-a-smart-contract.md       ← Full architecture: contract approach
 │   ├── proposal-b-backend-only.md         ← Full architecture: backend-only approach
+│   ├── proposal-c-self-managed-keys.md    ← Swap from user wallet using stored keys
+│   ├── proposal-d-privy-server-delegation.md ← Swap from user wallet via Privy SDK
+│   ├── changelog.md                       ← What changed, scope justification
 │   └── notes-and-recommendations.md       ← Risks, suggestions, timeline
 │
 └── <next-project>/                        ← Future projects go here

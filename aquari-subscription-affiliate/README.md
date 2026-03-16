@@ -8,7 +8,10 @@ Recurring AQUARI token accumulation system with affiliate program on Base. Users
 |----------|-------------|
 | [Proposal A — Smart Contract](./proposal-a-smart-contract.md) | Vault + atomic swap + affiliate + bonus in 1 tx per month. Full flow diagrams, tx counts, admin dashboard, pros/cons. |
 | [Proposal B — Backend-Only](./proposal-b-backend-only.md) | No custom contract. Backend calls Uniswap V2 directly. 1-3 txs per month. Full flow diagrams, tx counts, pros/cons. |
+| [Proposal C — Self-Managed Keys](./proposal-c-self-managed-keys.md) | Swap from user's own wallet using encrypted keys stored in our DB. No Privy server dependency. |
+| [Proposal D — Privy Server Delegation](./proposal-d-privy-server-delegation.md) | Swap from user's own wallet via Privy's server SDK. No keys stored on our side. Policy-constrained. |
 | [Notes & Recommendations](./notes-and-recommendations.md) | Inflow dependency risks, referral split suggestion (75/25), full-stack ownership argument, timeline estimate. |
+| [Changelog](./changelog.md) | What changed from Proposal B, why scope increased, and why it matters. |
 
 ## Quick Summary
 
