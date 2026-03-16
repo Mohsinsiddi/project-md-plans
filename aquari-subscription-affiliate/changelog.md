@@ -1,12 +1,14 @@
 # AQUARI Subscription & Affiliate — Changelog
 
 > What changed, why the scope increased, and why it matters.
+>
+> Full proposals: [Proposal C (Self-Managed Keys)](./proposal-c-self-managed-keys.md) | [Proposal D (Privy Server Delegation)](./proposal-d-privy-server-delegation.md)
 
 ---
 
 ## Summary
 
-Two new architecture proposals (C and D) have been added. Both explore a fundamentally different approach: **executing swaps FROM the user's own Privy wallet** instead of from a platform/admin wallet. This was driven by client requirements around USDC forwarding, on-chain transparency, and the trust model. The scope of work has increased accordingly.
+Two new architecture proposals have been added — [Proposal C](./proposal-c-self-managed-keys.md) and [Proposal D](./proposal-d-privy-server-delegation.md). Both explore a fundamentally different approach: **executing swaps FROM the user's own Privy wallet** instead of from a platform/admin wallet. This was driven by client requirements around USDC forwarding, on-chain transparency, and the trust model. The scope of work has increased accordingly.
 
 ---
 
